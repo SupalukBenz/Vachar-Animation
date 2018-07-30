@@ -9,8 +9,8 @@ $(function () {
   var myVar = setInterval(myTimer, 10000);
 
   function myTimer() {
-
-    window.location.href = ("http://e5435b89.ngrok.io");
+    //Varcar user URL... 
+    window.location.href = ("./Varcar/index.html");
 
   }
 
